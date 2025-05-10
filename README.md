@@ -1,12 +1,22 @@
-# React + Vite
+Project: AI-Powered Sentiment Analysis Blog App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Github link 
+Client- https://github.com/Deepakbst1/AI-Sentiment-Analysis-Blogging_Client 
+Server- https://github.com/Deepakbst1/AI-Sentiment-Analysis-Blogging-Server
 
-Currently, two official plugins are available:
+Deployed link- https://ai-sentiment-analysis-blogging-client.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Description:
+Developed an AI-powered web application that analyzes the sentiment of blog posts in real time. The app utilizes OPEN-AI to classify content as positive, negative, or neutral, providing users with insights into the tone of their articles. The app is designed for bloggers, content creators, and businesses to gauge audience reactions and optimize content accordingly.
 
-## Expanding the ESLint configuration
+Key Responsibilities:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Designed and developed the user interface using HTML, CSS, and JavaScript.
+
+Used Open Ai for sentiment analysis.
+
+Integrated the app with a backend system for processing and displaying sentiment results.
+
+Ensured scalability and responsiveness across different devices and screen sizes.
+
+Conducted testing and optimization to improve accuracy of sentiment analysis.
